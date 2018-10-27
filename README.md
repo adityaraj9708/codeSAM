@@ -1,6 +1,3 @@
 # codeSAM
 
-gandu shahdadpuri
-gandu baba
-bhola kovid
-antaryami shivam
+this is for coding sam's only
