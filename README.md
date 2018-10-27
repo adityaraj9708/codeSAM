@@ -1,5 +1,5 @@
 # codeSAM
 
-gandu sayantan
+gandu shahdadpuri
 gandu baba
 bhola kovid
