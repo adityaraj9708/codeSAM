@@ -1,3 +1,4 @@
 # codeSAM
-
-this is for coding sam's only
+//
+in this repo you are able to elnist your code 
+or editify the code which is submitted by someone.  //
